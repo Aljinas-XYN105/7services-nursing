@@ -6598,3 +6598,12 @@ img {
 .pt25 {
 	padding-top: 25px;
 }
+
+.list-milestones li {
+	position: relative;
+	color: #797979;
+	font-size: 15px;
+	line-height: 1.4em;
+	margin-bottom: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
